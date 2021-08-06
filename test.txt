@@ -1,0 +1,10 @@
+ Volume in drive E is New Volume
+ Volume Serial Number is 6C02-BAE7
+
+ Directory of E:\jenkins\git\myproject
+
+06-08-2021  10:54    <DIR>          .
+06-08-2021  10:54    <DIR>          ..
+06-08-2021  10:54                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  67,623,804,928 bytes free
